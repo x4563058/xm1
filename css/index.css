@@ -1,0 +1,20 @@
+@import url("base.css");
+.asd{
+	width: 100%;
+	height: 918px;
+	background: #fac9c9;
+	display: flex;
+	flex-direction: row;
+}
+.asd li{
+	width: 216px;
+	height: 259px;
+}
+.asd ul li a{
+	width: 216px;
+	height: 259px;
+}
+.asd ul li a img{
+	width: 216px;
+	height: 259px;
+}
